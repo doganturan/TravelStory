@@ -1,5 +1,3 @@
-#TravelStory
-
 **TravelStory** is a platform where you can share your travel experiences and get inspired by other travelers. Every journey is a story; With this application, you can immortalize your adventures with photos and details, while browsing stories from different destinations around the world.
 
 ## Features
